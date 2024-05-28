@@ -1,0 +1,4 @@
+ID 20, Nombre 78522, Teléfono 448451
+ID 32, Nombre alan, Teléfono 48552
+ID 45, Nombre esthr, Teléfono 4585
+ID 60, Nombre juan, Teléfono 475555
